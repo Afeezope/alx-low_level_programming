@@ -22,7 +22,6 @@ typedef struct listint_s
 	struct listint_s *next;
 } listint_t;
 
-
 /*
  * Function that searches for a value in an
  * array of integers using the Linear search algorithm
